@@ -1,0 +1,11 @@
+{
+  "name": "travail",
+  "version": "1.0.0",
+  "description": "Calculador realizada en CommonJS que necesita de manos expertas para solucionar algunos problemas y añadir algunas funcionalidades",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
